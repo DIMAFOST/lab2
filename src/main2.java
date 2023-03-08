@@ -3,7 +3,7 @@ public class main2 {
         int n = 21;
         double f = n / 10; // перша цифра
         int s = n % 10; // друга цифра
-        int sum = f + s;
+        double sum = f + s;
         System.out.println("Сума цифр числа " + n + ": " + sum);
     }
 }
