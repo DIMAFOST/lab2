@@ -5,7 +5,7 @@ public class Main {
         int b = 3;
 
 
-        int k = a / b;
+        double k = a / b;
         int s = a % b;
 
         System.out.println("Рузультат ділення : "+k);
