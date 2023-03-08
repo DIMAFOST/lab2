@@ -6,6 +6,6 @@ public class main3 {
 
 
         int r = (int) ((double) number + 0.5);
-        System.out.println("Сума цифр числа " + r);
+        System.out.println("Округлення " + r);
     }
 }
