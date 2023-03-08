@@ -5,7 +5,7 @@ public class main3 {
         double number = 3.1434;
 
 
-        int r = (int) Math.round(number);
+        int r = (int) ((double) number + 0.5);
         System.out.println("Сума цифр числа " + r);
     }
 }
